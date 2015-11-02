@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/SonarOpenCommunity/sonar-cxx.svg?branch=master)](https://travis-ci.org/SonarOpenCommunity/sonar-cxx)
-[![Build status](https://ci.appveyor.com/api/projects/status/ufnpbd1cy3b0bbk0?svg=true)](https://ci.appveyor.com/project/jorgecosta/sonar-cxx)
+[![Build status](https://ci.appveyor.com/api/projects/status/ebqef0x9l40ae264?svg=true)](https://ci.appveyor.com/project/SonarOpenCommunity/sonar-cxx)
 
-Last Snapshot: [Download](https://ci.appveyor.com/project/jorgecosta/sonar-cxx/build/artifacts)
+Last Snapshot: [Download](https://ci.appveyor.com/project/SonarOpenCommunity/sonar-cxx/build/artifacts)
 
 ## SonarQube C++ Community plugin
 
