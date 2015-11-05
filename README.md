@@ -8,12 +8,10 @@ Last Snapshot: [Download](https://ci.appveyor.com/project/SonarOpenCommunity/son
 [SonarQube](https://www.sonarqube.org) is an open platform to manage code quality. This plugin
 adds C++ support to this platform.
 
-
 ## Quickstart
 1. Setup a SonarQube instance
 2. Install the plugin (see [Installation](https://github.com/wenns/sonar-cxx/wiki/Installation))
 3. Run an analysis (see [Running the analysis](https://github.com/wenns/sonar-cxx/wiki/Running-the-analysis))
-
 
 ## Resources
 - [Latest release](https://github.com/wenns/sonar-cxx/releases)
@@ -21,7 +19,6 @@ adds C++ support to this platform.
 - [Issue Tracker](https://github.com/wenns/sonar-cxx/issues)
 - [Continuous Integration](https://travis-ci.org/wenns/sonar-cxx)
 - [Sample project](https://github.com/wenns/sonar-cxx/tree/master/sonar-cxx-plugin/src/samples/SampleProject)
-
 
 ## Alternatives:
 That's not the only choice when if you're after C++ support in SonarQube: there is also 
